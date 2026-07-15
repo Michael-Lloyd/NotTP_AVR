@@ -1,0 +1,11 @@
+Quantity,Manufacturer Part Number,Manufacturer,Description,Customer Reference,Notes
+2,RC0603FR-074K7L,Yageo,RES 4.7K OHM 1% 1/10W 0603,"R1,R2",PS/2 pull-ups on TP_CLK / TP_DATA
+1,RC0603FR-07100KL,Yageo,RES 100K OHM 1% 1/10W 0603,R3,TrackPoint power-on reset RC (with C1)
+8,RC0603FR-0710KL,Yageo,RES 10K OHM 1% 1/10W 0603,"R4,R5,R6,R7,R8,R9,R10,R11",Matrix row pulldowns (required with 74HC238)
+4,RC0603FR-071KL,Yageo,RES 1K OHM 1% 1/10W 0603,"R12,R13,R14,R15",LED current limit - fit only for X220/X230; adjust 1k-2k per LED colour
+1,CL10A105KA8NNNC,Samsung Electro-Mechanics,CAP CER 1UF 25V X5R 0603,C1,TrackPoint reset RC (+5V to TP_RST)
+2,CL10B104KB8NNNC,Samsung Electro-Mechanics,CAP CER 0.1UF 50V X7R 0603,"C2,C3",Decoupling for U1 / U2
+2,"74HC238PW,118",Nexperia,IC DECODER/DEMUX 1X3:8 TSSOP-16,"U1,U2",Two used as a 4-to-16 column driver. Alt: TI SN74HC238PWR
+1,DEV-12640,SparkFun Electronics,Pro Micro 5V/16MHz ATmega32U4 board,M1,Any Pro Micro compatible (5V/16MHz) works
+1,B3F-3152,Omron Electronics,SWITCH TACTILE SPST-NO RIGHT ANGLE,SW1,Reset (RST to GND) - optional; any B3F-315x variant (stem height differs)
+1,AA01B-S040VA1-R3000,JAE Electronics,CONN KEYBOARD 40P 0.5MM PITCH SMD,J1,OBSOLETE - not stocked by DigiKey. See notes below.

@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "388b4879-ef32-4449-be32-6c5fb5c3fe3b")
 	(paper "A3")
+	(title_block
+		(title "TP_AVR_REVERSED")
+		(date "2026-06-24")
+		(rev "A")
+		(company "micl.dev")
+	)
 	(lib_symbols
 		(symbol "0_project:Arduino_ProMicro"
 			(pin_names
@@ -7287,7 +7293,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 186.69 227.33 0)
+		(at 184.15 209.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7298,7 +7304,7 @@
 		(fields_autoplaced yes)
 		(uuid "2a368e6b-a66b-4159-b0e9-db07da216556")
 		(property "Reference" "H1"
-			(at 189.23 226.0599 0)
+			(at 186.69 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7309,7 +7315,8 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 189.23 228.5999 0)
+			(at 186.69 210.8199 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7320,7 +7327,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 186.69 227.33 0)
+			(at 184.15 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7331,7 +7338,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 186.69 227.33 0)
+			(at 184.15 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7342,7 +7349,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 186.69 227.33 0)
+			(at 184.15 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7827,7 +7834,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 187.96 237.49 0)
+		(at 196.85 209.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7838,7 +7845,7 @@
 		(fields_autoplaced yes)
 		(uuid "40308b1e-6c70-4c97-b98a-8bf2da3350cb")
 		(property "Reference" "H2"
-			(at 190.5 236.2199 0)
+			(at 199.39 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7849,7 +7856,8 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 190.5 238.7599 0)
+			(at 199.39 210.8199 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7860,7 +7868,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 187.96 237.49 0)
+			(at 196.85 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7871,7 +7879,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 237.49 0)
+			(at 196.85 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7882,7 +7890,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 187.96 237.49 0)
+			(at 196.85 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8063,7 +8071,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 189.23 247.65 0)
+		(at 209.55 209.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8074,7 +8082,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e9df268-db0d-4747-b4c8-97fb9aa8a39f")
 		(property "Reference" "H3"
-			(at 191.77 246.3799 0)
+			(at 212.09 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8085,7 +8093,8 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 191.77 248.9199 0)
+			(at 212.09 210.8199 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8096,7 +8105,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 189.23 247.65 0)
+			(at 209.55 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8107,7 +8116,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 247.65 0)
+			(at 209.55 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8118,7 +8127,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 189.23 247.65 0)
+			(at 209.55 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8757,7 +8766,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_02x20_Counter_Clockwise"
+		(property "Value" "JAE_AA01B-S040VA1"
 			(at 196.85 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9014,6 +9023,7 @@
 	(symbol
 		(lib_id "Switch:SW_SPST")
 		(at 114.3 50.8 0)
+		(mirror y)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9021,7 +9031,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "90ff4c8e-746c-4c45-a4e0-eb44fc46caaa")
 		(property "Reference" "SW1"
 			(at 114.3 44.45 0)
@@ -10856,7 +10865,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 190.5 262.89 0)
+		(at 222.25 209.55 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10867,7 +10876,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8adb66f-c8b2-477a-b520-c4d68f62b4d2")
 		(property "Reference" "H4"
-			(at 193.04 261.6199 0)
+			(at 224.79 208.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10878,7 +10887,8 @@
 			)
 		)
 		(property "Value" "MountingHole"
-			(at 193.04 264.1599 0)
+			(at 224.79 210.8199 0)
+			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10889,7 +10899,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.2mm_M2"
-			(at 190.5 262.89 0)
+			(at 222.25 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10900,7 +10910,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 190.5 262.89 0)
+			(at 222.25 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10911,7 +10921,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 190.5 262.89 0)
+			(at 222.25 209.55 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
